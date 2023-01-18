@@ -1,0 +1,16 @@
+<template>
+  <svg
+    width="24"
+    height="24"
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+  >
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M11.7033 13.7071L18.9962 6.41421V11H20.9962V3H12.9962V5H17.582L10.2891 12.2929L11.7033 13.7071ZM19 19V14H17V19H5V7H10V5H5C3.89543 5 3 5.89543 3 7V19C3 20.1046 3.89543 21 5 21H17C18.1046 21 19 20.1046 19 19Z"
+      fill="currentColor"
+    />
+  </svg>
+</template>
